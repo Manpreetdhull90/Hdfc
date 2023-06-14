@@ -16,13 +16,7 @@
 
   <img src="https://img.shields.io/github/issues/htr-tech/zphisher?color=red&style=for-the-badge">
 
-  <img src="https://img.shields.io/github/forks/htr-tech/zphisher?color=teal&style=for-the-badge">
-
-</p>
-
-<p align="center">
-
-  <img src="https://img.shields.io/badge/Author-htr--tech-blue?style=flat-square">
+  <img src="https://img.shields.io/github/forks/htr-tech/zphisher?col
 
   <img src="https://img.shields.io/badge/Open%20Source-Yes-darkgreen?style=flat-square">
 
